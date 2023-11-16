@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **devashishpandey33@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/182RAayni_xM3nG-n2d--Zh6Vw5kvV18u/view?usp=drive_link](https://drive.google.com/file/d/182RAayni_xM3nG-n2d--Zh6Vw5kvV18u/view?usp=drive_link)
-
 - ⚡ Fun fact **Adventures**
 
 <h3 align="left">Connect with me:</h3>
