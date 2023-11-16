@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devashish Pandey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qGzFJY-78bnEsyNkFX7Gm&ust=1700247106324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID5gJ6YyYIDFQAAAAAdAAAAABAV.gif">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qGzFJY-78bnEsyNkFX7Gm&ust=1700247106324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID5gJ6YyYIDFQAAAAAdAAAAABAV](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qGzFJY-78bnEsyNkFX7Gm&ust=1700247106324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID5gJ6YyYIDFQAAAAAdAAAAABAa).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashish1404&label=Profile%20views&color=0e75b6&style=flat" alt="devashish1404" /> </p>
 
